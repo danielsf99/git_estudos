@@ -7,8 +7,8 @@
 <body>
     <h1>Resumos de Estudos</h1>
     <ul>
-        <li><a href="materia1/README.md">Resumo de Introdução à Computação em Nuvem</a></li>
-        <li><a href="materia2/README.md">Resumo de Banco de Dados Relacional</a></li>
+        <li><a href="materias/AZURE/README.md.txt">AZURE</a></li>
+        <li><a href="materias/SQL/README.md.txt">SQL</a></li>
         <li><a href="materia3/README.md">Resumo de SQL Básico</a></li>
     </ul>
 </body>
